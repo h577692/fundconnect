@@ -349,15 +349,22 @@ nav {
     margin-top: 30px;
 }
 
-.beskrivelse a {
+.beskrivelse img {
     margin-top: 50px;
+}
+
+.back-button {
+    margin-top: 50px;
+}
+
+.back-button a {
     color: #000;
     font-weight: 400;
     border-bottom: 2px solid #fbf8f6;
 }
 
-.beskrivelse a:hover,
-.beskrivelse a:active {
+.back-button a:hover,
+.back-button a:active {
     font-weight: 400;
     border-bottom: 2px solid #22b9cd;
 }
@@ -366,6 +373,10 @@ nav {
     margin-top: 40px;
     font-weight: 400;
     font-size: 95%;
+}
+
+.prosjekt-links li {
+    margin: 5px;
 }
 
 .prosjekt-links ion-icon {
